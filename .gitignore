@@ -133,3 +133,5 @@ ner/ner_dataset.csv
 
 posTagger/.ipynb_checkpoints/
 posTagger/traindata.txt
+
+emotionDetector/ISEAR.csv
