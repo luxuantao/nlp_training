@@ -130,3 +130,6 @@ dmypy.json
 
 ner/.ipynb_checkpoints/
 ner/ner_dataset.csv
+
+posTagger/.ipynb_checkpoints/
+posTagger/traindata.txt
